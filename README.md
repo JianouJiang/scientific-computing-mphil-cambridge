@@ -1,13 +1,9 @@
-# Welcome to GitHub Desktop!
+# Welcome to MPhil in Scientific Computing at Cambridge!
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
-
-
-
-
+This is where I store the code for the one-year master course for scientific computing at the Univeristy of Cambridge. Hopefully the code can inspire more than just me on the internet!
 
 
 
 Jianou Jiang
+
+06/Oct/2020
