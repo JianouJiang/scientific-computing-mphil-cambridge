@@ -6,6 +6,8 @@ Jianou Jiang
 
 06/Oct/2020
 
+# Overview
+
 --
 
 To all MPhil and 1st-year CDT students:
@@ -38,12 +40,7 @@ and the list of available machines (you only have access to those
 labelled "CSC-MPHIL"):
 <https://www-internal.lsc.phy.cam.ac.uk/systems.shtml>
 
-If you have any problems connecting to the network, please contact me or
-Steve Millmore (stm31@cam.ac.uk).
 
-Kind regards,
-
-Philip
 
 -----
 
